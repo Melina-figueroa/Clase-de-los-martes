@@ -1,0 +1,25 @@
+.contenedor{
+    display: flexbox;
+    background-color: rgb(203, 168, 134);
+    border: 2px chocolate solid;
+}
+.inputBlock{
+    display: flex;
+    background-color: bisque;
+    margin: 1%;
+}
+.tipoDeLetra{
+    color: chocolate;
+    text-align: center;
+    
+}
+.lista{
+    color: chocolate;
+}
+.boton{
+    display: flex;
+    background-color: beige;
+    border-color: rgb(112, 51, 7);
+    margin-top: 2%;
+    margin-left: 4%;
+}
