@@ -4,7 +4,7 @@
     border: 2px chocolate solid;
 }
 .inputBlock{
-    display: flex;
+    display: block;
     background-color: bisque;
     margin: 1%;
 }
@@ -17,7 +17,7 @@
     color: chocolate;
 }
 .boton{
-    display: flex;
+    display: inline-block;
     background-color: beige;
     border-color: rgb(112, 51, 7);
     margin-top: 2%;
