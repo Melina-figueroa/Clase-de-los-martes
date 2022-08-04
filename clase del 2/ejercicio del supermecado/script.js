@@ -14,9 +14,16 @@ botonCalcular.addEventListener("click", calcularCompra);
 
 let miLista = document.querySelector(".lista");
 
+let contenedor = document.querySelector(".contenedor");
 contenedor.classList.add("contenedor");
-input.classList.add("inputBlock")
+
+let input = document.querySelector(".inputBlock");
+input.classList.add("inputBlock");
+
+let titulo = document.querySelector(".tipoDeLetra");
 titulo.classList.add("tipoDeLetra");
+
+let boton = document.querySelector(".boton");
 boton.classList.add("boton")
 
 
